@@ -1,0 +1,18 @@
+Nmap Automation Scan Report
+==============================
+Scan Time: 2026-01-20 14:01:12.245703
+Target: 127.0.0.1
+
+Host: 127.0.0.1
+State: up
+
+Open TCP Ports:
+--------------------
+Port: 80 | Service: http | Version: 
+Port: 135 | Service: msrpc | Version: 
+Port: 443 | Service: https | Version: 
+Port: 445 | Service: microsoft-ds | Version: 
+Port: 902 | Service: iss-realsecure | Version: 
+Port: 912 | Service: apex-mesh | Version: 
+
+Scan completed successfully.
