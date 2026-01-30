@@ -1,0 +1,179 @@
+sudo snort -c /etc/snort/snort.lua -i eth0 -A alert_fast
+
+--------------------------------------------------
+o")~   Snort++ 3.10.1.0
+--------------------------------------------------
+Loading /etc/snort/snort.lua:
+Loading snort_defaults.lua:
+Finished snort_defaults.lua:
+        active
+        alerts
+        daq
+        decode
+        host_cache
+        host_tracker
+        hosts
+        network
+        packets
+        process
+        search_engine
+        so_proxy
+        stream
+        stream_icmp
+        trace
+        classifications
+        references
+        wizard
+        ips
+        file_id
+        output
+        file_policy
+        ftp_client
+        port_scan
+        gtp_inspect
+        dce_tcp
+        ssl
+        imap
+        stream_ip
+        stream_tcp
+        stream_udp
+        stream_user
+        stream_file
+        arp_spoof
+        back_orifice
+        dns
+        netflow
+        normalizer
+        pop
+        rpc_decode
+        sip
+        ssh
+        telnet
+        cip
+        dnp3
+        iec104
+        mms
+        modbus
+        opcua
+        s7commplus
+        dce_smb
+        dce_udp
+        dce_http_proxy
+        dce_http_server
+        smtp
+        ftp_server
+        ftp_data
+        http_inspect
+        http2_inspect
+        js_norm
+        appid
+        binder
+Finished /etc/snort/snort.lua:
+Loading file_id.rules_file:
+Loading file_magic.rules:
+Finished file_magic.rules:
+Finished file_id.rules_file:
+Loading ips.rules:
+Loading /etc/snort/rules/local.rules:
+Finished /etc/snort/rules/local.rules:
+Finished ips.rules:
+--------------------------------------------------
+ips policies rule stats
+              id  loaded  shared enabled    file
+               0     221       0     221    /etc/snort/snort.lua
+--------------------------------------------------
+rule counts
+       total rules loaded: 221
+               text rules: 221
+            option chains: 221
+            chain headers: 3
+--------------------------------------------------
+port rule counts
+             tcp     udp    icmp      ip
+     any       2       0       0       0
+   total       2       0       0       0
+--------------------------------------------------
+service rule counts          to-srv  to-cli
+                  file_id:      219     219
+                    total:      219     219
+--------------------------------------------------
+fast pattern groups
+                to_server: 1
+                to_client: 1
+--------------------------------------------------
+search engine (ac_bnfa)
+                instances: 2
+                 patterns: 438
+            pattern chars: 2602
+               num states: 1832
+         num match states: 392
+             memory scale: KB
+             total memory: 71.2812
+           pattern memory: 19.6484
+        match list memory: 28.4375
+        transition memory: 22.9453
+appid: MaxRss diff: 3232
+appid: patterns loaded: 300
+--------------------------------------------------
+pcap DAQ configured to passive.
+Commencing packet processing
+Retry queue interval is: 200 ms
+++ [0] eth0
+01/23-02:57:30.979527 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18286 -> 172.64.148.235:443
+01/23-02:57:30.979527 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18286 -> 172.64.148.235:443
+01/23-02:58:23.608338 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18289 -> 34.225.165.190:443
+01/23-02:58:23.608338 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18289 -> 34.225.165.190:443
+01/23-02:58:31.569684 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18292 -> 149.202.68.136:8877
+01/23-02:58:31.569702 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18291 -> 223.6.6.6:80
+01/23-02:58:31.569702 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18291 -> 223.6.6.6:80
+01/23-02:58:31.579118 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18293 -> 141.95.34.186:6060
+01/23-02:58:32.134205 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18294 -> 223.6.6.6:80
+01/23-02:58:32.134205 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18294 -> 223.6.6.6:80
+01/23-02:58:59.319783 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18296 -> 157.20.182.20:39006
+01/23-02:59:34.564273 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18298 -> 20.190.175.88:443
+01/23-02:59:34.564273 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18298 -> 20.190.175.88:443
+01/23-02:59:35.517944 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18299 -> 40.104.68.98:443
+01/23-02:59:35.517944 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:18299 -> 40.104.68.98:443
+01/23-02:59:36.629301 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:63173 -> 204.79.197.222:443
+01/23-02:59:36.629301 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:63173 -> 204.79.197.222:443
+01/23-02:59:41.782673 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:40486 -> 13.107.13.93:443
+01/23-02:59:41.782673 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:40486 -> 13.107.13.93:443
+01/23-02:59:42.347734 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:54221 -> 13.107.213.68:443
+01/23-02:59:42.347734 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:54221 -> 13.107.213.68:443
+01/23-02:59:42.822173 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:42806 -> 13.107.246.48:443
+01/23-02:59:42.822173 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:42806 -> 13.107.246.48:443
+01/23-02:59:43.754967 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:42807 -> 13.107.5.93:443
+01/23-02:59:43.754967 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:42807 -> 13.107.5.93:443
+01/23-02:59:44.059793 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:42237 -> 150.171.75.16:443
+01/23-02:59:44.059793 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:42237 -> 150.171.75.16:443
+01/23-02:59:44.189684 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:9787 -> 13.107.246.48:443
+01/23-02:59:44.189684 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:9787 -> 13.107.246.48:443
+01/23-02:59:44.251353 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46162 -> 20.42.65.93:443
+01/23-02:59:44.251353 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46162 -> 20.42.65.93:443
+01/23-02:59:45.265772 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46163 -> 52.182.143.209:443
+01/23-02:59:45.265772 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46163 -> 52.182.143.209:443
+01/23-02:59:45.705750 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46164 -> 20.42.65.91:443
+01/23-02:59:45.705750 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46164 -> 20.42.65.91:443
+01/23-02:59:45.743571 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46165 -> 20.42.65.91:443
+01/23-02:59:45.743571 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46165 -> 20.42.65.91:443
+01/23-02:59:47.526691 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46166 -> 20.42.65.91:443
+01/23-02:59:47.526691 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46166 -> 20.42.65.91:443
+01/23-02:59:50.052601 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46168 -> 20.42.65.91:443
+01/23-02:59:50.052601 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46168 -> 20.42.65.91:443
+01/23-02:59:59.517575 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46169 -> 52.182.143.209:443
+01/23-02:59:59.517575 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46169 -> 52.182.143.209:443
+01/23-03:00:20.581128 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46170 -> 13.107.5.93:443
+01/23-03:00:20.581128 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46170 -> 13.107.5.93:443
+01/23-03:00:23.182701 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46171 -> 20.57.103.21:443
+01/23-03:00:23.182701 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:46171 -> 20.57.103.21:443
+01/23-03:00:26.876308 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:47278 -> 23.55.245.65:443
+01/23-03:00:26.876308 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:47278 -> 23.55.245.65:443
+01/23-03:00:34.406373 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:34340 -> 13.107.9.158:443
+01/23-03:00:34.406373 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:34340 -> 13.107.9.158:443
+01/23-03:00:34.519045 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:14710 -> 4.213.133.109:443
+01/23-03:00:34.519045 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:14710 -> 4.213.133.109:443
+01/23-03:01:14.148102 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:14712 -> 72.25.64.2:443                              
+01/23-03:01:14.148102 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:14712 -> 72.25.64.2:443                                       
+01/23-03:01:15.827775 [**] [1:1000002:1] "Potential Port Scan Detected" [**] [Priority: 0] {TCP} 192.168.1.4:14713 -> 52.196.96.113:443                           
+01/23-03:01:15.827775 [**] [1:1000001:1] "SYN Packet Detected" [**] [Priority: 0] {TCP} 192.168.1.4:14713 -> 52.196.96.113:443                                    
+                                                
