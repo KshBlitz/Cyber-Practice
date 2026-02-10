@@ -1,0 +1,17 @@
+Subject: Escalation: Critical Ransomware Alert on Server-X
+
+Hi Tier 2 Team,
+
+We have detected a Critical ransomware-related alert on Server-X. The alert
+indicates execution of a malicious file (crypto_locker.exe) along with suspicious
+network activity from IP address 192.168.1.50.
+
+Given the severity and potential impact on system availability and data integrity,
+this incident requires immediate investigation and containment actions. The host
+has been flagged for possible isolation, and further analysis is recommended to
+determine lateral movement or data exfiltration.
+
+Please advise on next steps for response and remediation.
+
+Regards,  
+SOC Analyst

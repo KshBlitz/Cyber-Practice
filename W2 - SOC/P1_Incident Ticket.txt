@@ -1,0 +1,27 @@
+Title:
+[Critical] Ransomware Detected on Server-X
+
+Description:
+A ransomware activity was detected on Server-X. The alert was triggered due to
+the execution of a known ransomware binary and suspicious outbound traffic.
+
+Indicators of Compromise (IOCs):
+- Malicious File: crypto_locker.exe
+- Source IP Address: 192.168.1.50
+- Affected Host: Server-X
+
+Detection Source:
+SIEM (Wazuh Alert)
+
+Severity:
+Critical
+
+Impact:
+Potential encryption of system files and data loss on Server-X.
+
+Current Status:
+Under Investigation
+
+Assigned To:
+Kalash 
+SOC Analyst L1
