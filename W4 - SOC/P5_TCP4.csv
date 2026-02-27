@@ -1,0 +1,2633 @@
+inode,State,uid,ProcessInfo,LocalAddr,LocalPort,RemoteAddr,RemotePort
+" 215627",Listening," 0","{
+ ""Pid"": 55946,
+ ""Command"": ""wazuh-authd\n"",
+ ""CommandLine"": ""/var/ossec/bin/wazuh-authd\u0000"",
+ ""Filename"": ""socket:[215627]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""215627""
+}",0.0.0.0,1515,0.0.0.0,0
+" 215725",Listening," 0","{
+ ""Pid"": 56064,
+ ""Command"": ""wazuh-remoted\n"",
+ ""CommandLine"": ""/var/ossec/bin/wazuh-remoted\u0000"",
+ ""Filename"": ""socket:[215725]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""215725""
+}",0.0.0.0,1514,0.0.0.0,0
+" 216253",Listening," 123","{
+ ""Pid"": 55907,
+ ""Command"": ""python3\n"",
+ ""CommandLine"": ""/var/ossec/framework/python/bin/python3\u0000/var/ossec/api/scripts/wazuh-apid.py\u0000"",
+ ""Filename"": ""socket:[216253]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""216253""
+}",0.0.0.0,55000,0.0.0.0,0
+" 19140",Listening," 0","{
+ ""Pid"": 1,
+ ""Command"": ""systemd\n"",
+ ""CommandLine"": ""/sbin/init\u0000splash\u0000"",
+ ""Filename"": ""socket:[19140]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""19140""
+}",0.0.0.0,22,0.0.0.0,0
+" 266457",Listening," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[266457]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""266457""
+}",0.0.0.0,443,0.0.0.0,0
+" 760515",Listening," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[760515]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""760515""
+}",127.0.0.1,8003,0.0.0.0,0
+" 760512",Listening," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[760512]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""760512""
+}",127.0.0.1,8001,0.0.0.0,0
+" 760523",Listening," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[760523]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""760523""
+}",127.0.0.1,8000,0.0.0.0,0
+" 25000",Listening," 0","{
+ ""Pid"": 1422,
+ ""Command"": ""containerd\n"",
+ ""CommandLine"": ""/usr/bin/containerd\u0000"",
+ ""Filename"": ""socket:[25000]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""25000""
+}",127.0.0.1,41149,0.0.0.0,0
+" 19664",Listening," 991","{
+ ""Pid"": 674,
+ ""Command"": ""systemd-resolve\n"",
+ ""CommandLine"": ""/usr/lib/systemd/systemd-resolved\u0000"",
+ ""Filename"": ""socket:[19664]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""19664""
+}",127.0.0.53,53,0.0.0.0,0
+" 760520",Listening," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[760520]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""760520""
+}",127.0.0.1,8889,0.0.0.0,0
+" 22997",Listening," 0","{
+ ""Pid"": 1406,
+ ""Command"": ""cupsd\n"",
+ ""CommandLine"": ""/usr/sbin/cupsd\u0000-l\u0000"",
+ ""Filename"": ""socket:[22997]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""22997""
+}",127.0.0.1,631,0.0.0.0,0
+" 19666",Listening," 991","{
+ ""Pid"": 674,
+ ""Command"": ""systemd-resolve\n"",
+ ""CommandLine"": ""/usr/lib/systemd/systemd-resolved\u0000"",
+ ""Filename"": ""socket:[19666]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""19666""
+}",127.0.0.54,53,0.0.0.0,0
+" 790481",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[790481]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""790481""
+}",192.168.52.138,47436,35.213.183.23,443
+" 792073",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792073]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792073""
+}",192.168.52.138,46788,34.36.216.150,443
+" 789508",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789508]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789508""
+}",192.168.52.138,47704,35.213.64.108,443
+" 776037",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[776037]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""776037""
+}",192.168.52.138,54438,34.120.208.123,443
+" 763047",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[763047]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""763047""
+}",127.0.0.1,46742,127.0.0.1,8000
+" 762510",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[762510]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""762510""
+}",127.0.0.1,46750,127.0.0.1,8000
+" 781262",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781262]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781262""
+}",192.168.52.138,33742,23.222.31.40,443
+" 784164",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784164]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784164""
+}",192.168.52.138,34418,40.160.21.164,443
+" 775429",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775429]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775429""
+}",192.168.52.138,34624,18.172.64.54,443
+" 783160",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783160]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783160""
+}",192.168.52.138,55414,82.145.213.8,443
+" 783174",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783174]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783174""
+}",192.168.52.138,46850,3.72.145.17,443
+" 786676",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[786676]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""786676""
+}",192.168.52.138,58998,43.250.0.199,443
+" 785967",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785967]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785967""
+}",192.168.52.138,35540,23.53.243.147,443
+" 785971",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785971]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785971""
+}",192.168.52.138,35550,23.53.243.147,443
+" 792011",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792011]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792011""
+}",192.168.52.138,55854,82.145.213.8,443
+" 792818",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792818]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792818""
+}",192.168.52.138,55866,82.145.213.8,443
+" 780763",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780763]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780763""
+}",192.168.52.138,48492,13.227.249.89,443
+" 792239",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792239]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792239""
+}",192.168.52.138,52258,104.16.55.62,443
+" 410192",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[410192]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""410192""
+}",127.0.0.1,44148,127.0.0.1,9200
+" 408207",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[408207]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""408207""
+}",127.0.0.1,44208,127.0.0.1,9200
+" 762137",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[762137]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""762137""
+}",127.0.0.1,49524,127.0.0.1,8000
+" 760691",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[760691]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""760691""
+}",127.0.0.1,49532,127.0.0.1,8000
+" 791639",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791639]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791639""
+}",192.168.52.138,40796,18.142.1.68,443
+" 780911",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780911]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780911""
+}",192.168.52.138,56020,13.227.249.82,443
+" 783467",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783467]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783467""
+}",192.168.52.138,58552,82.145.213.8,443
+" 786249",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[786249]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""786249""
+}",192.168.52.138,59968,34.102.252.42,443
+" 791756",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791756]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791756""
+}",192.168.52.138,51428,35.213.7.90,443
+" 783561",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783561]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783561""
+}",192.168.52.138,58884,157.90.211.246,443
+" 777637",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777637]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777637""
+}",192.168.52.138,49514,151.101.1.91,443
+" 792790",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792790]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792790""
+}",192.168.52.138,39750,172.66.1.242,443
+" 778886",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778886]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778886""
+}",192.168.52.138,47794,18.239.149.171,443
+" 779002",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779002]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779002""
+}",192.168.52.138,47816,18.239.149.171,443
+" 790556",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[790556]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""790556""
+}",192.168.52.138,52734,104.26.14.135,443
+" 776088",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[776088]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""776088""
+}",192.168.52.138,47956,18.239.149.171,443
+" 776100",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[776100]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""776100""
+}",192.168.52.138,47972,18.239.149.171,443
+" 778329",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778329]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778329""
+}",192.168.52.138,45976,18.67.195.28,443
+" 778331",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778331]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778331""
+}",192.168.52.138,45982,18.67.195.28,443
+" 777984",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777984]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777984""
+}",127.0.0.1,38674,127.0.0.1,8889
+" 785436",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785436]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785436""
+}",192.168.52.138,55536,104.16.55.62,443
+" 789123",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789123]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789123""
+}",192.168.52.138,39570,35.213.188.76,443
+" 785438",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785438]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785438""
+}",192.168.52.138,41270,151.101.1.44,443
+" 775912",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775912]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775912""
+}",192.168.52.138,55752,18.66.41.86,443
+" 783038",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783038]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783038""
+}",192.168.52.138,45696,18.66.41.90,443
+" 789657",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789657]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789657""
+}",192.168.52.138,40764,52.26.17.96,443
+" 781380",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781380]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781380""
+}",192.168.52.138,39580,18.239.115.149,443
+" 779977",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779977]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779977""
+}",192.168.52.138,43300,18.172.64.85,443
+" 784791",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784791]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784791""
+}",192.168.52.138,50728,35.212.17.176,443
+" 776249",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[776249]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""776249""
+}",192.168.52.138,46900,34.107.243.93,443
+" 776080",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[776080]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""776080""
+}",192.168.52.138,55330,13.227.249.19,443
+" 761982",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[761982]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""761982""
+}",127.0.0.1,49640,127.0.0.1,8001
+" 785434",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785434]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785434""
+}",192.168.52.138,37304,38.134.110.236,443
+" 783045",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783045]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783045""
+}",192.168.52.138,60666,3.115.85.124,443
+" 778859",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778859]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778859""
+}",192.168.52.138,35724,104.19.147.8,443
+" 782286",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782286]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782286""
+}",192.168.52.138,39776,27.123.43.205,443
+" 417056",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[417056]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""417056""
+}",127.0.0.1,50604,127.0.0.1,9200
+" 417057",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[417057]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""417057""
+}",127.0.0.1,50616,127.0.0.1,9200
+" 417058",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[417058]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""417058""
+}",127.0.0.1,50618,127.0.0.1,9200
+" 417059",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[417059]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""417059""
+}",127.0.0.1,50634,127.0.0.1,9200
+" 777458",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777458]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777458""
+}",192.168.52.138,52180,104.20.23.25,443
+" 792048",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792048]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792048""
+}",192.168.52.138,38144,34.142.217.223,443
+" 781280",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781280]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781280""
+}",192.168.52.138,43276,35.71.178.8,443
+" 784005",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784005]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784005""
+}",192.168.52.138,57390,34.149.137.56,443
+" 785744",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785744]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785744""
+}",192.168.52.138,35454,142.250.207.194,443
+" 789440",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789440]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789440""
+}",192.168.52.138,54024,172.67.72.108,443
+" 784161",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784161]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784161""
+}",192.168.52.138,46718,34.4.35.11,443
+" 777400",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777400]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777400""
+}",192.168.52.138,36576,151.101.66.132,443
+" 783072",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783072]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783072""
+}",192.168.52.138,42368,207.65.33.76,443
+" 780601",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780601]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780601""
+}",192.168.52.138,45648,150.171.22.12,443
+" 790704",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[790704]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""790704""
+}",192.168.52.138,53828,131.153.206.101,443
+" 789536",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789536]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789536""
+}",192.168.52.138,49940,52.50.138.114,443
+" 779672",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779672]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779672""
+}",192.168.52.138,39954,103.180.115.15,443
+" 777651",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777651]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777651""
+}",192.168.52.138,50170,34.216.112.236,443
+" 791933",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791933]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791933""
+}",192.168.52.138,36786,35.71.131.137,443
+" 782513",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782513]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782513""
+}",192.168.52.138,42992,13.227.249.41,443
+" 791605",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791605]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791605""
+}",192.168.52.138,35914,35.213.17.49,443
+" 791669",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791669]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791669""
+}",192.168.52.138,38470,172.66.171.198,443
+" 791741",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791741]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791741""
+}",192.168.52.138,38484,172.66.171.198,443
+" 791693",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791693]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791693""
+}",192.168.52.138,60406,35.213.64.108,443
+" 775706",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775706]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775706""
+}",192.168.52.138,40514,151.101.129.91,443
+" 785224",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785224]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785224""
+}",192.168.52.138,37558,37.157.6.254,443
+" 780775",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780775]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780775""
+}",192.168.52.138,34612,18.172.65.161,443
+" 780776",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780776]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780776""
+}",192.168.52.138,34616,18.172.65.161,443
+" 792146",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792146]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792146""
+}",192.168.52.138,51522,104.18.5.205,443
+" 763048",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[763048]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""763048""
+}",127.0.0.1,8000,127.0.0.1,46742
+" 782285",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782285]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782285""
+}",192.168.52.138,42468,34.142.217.223,443
+" 784454",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784454]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784454""
+}",192.168.52.138,51796,104.18.5.205,443
+" 780599",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780599]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780599""
+}",192.168.52.138,36140,35.190.91.160,443
+" 780339",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780339]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780339""
+}",192.168.52.138,35252,151.101.194.202,443
+" 783530",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783530]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783530""
+}",192.168.52.138,42182,69.173.158.64,443
+" 779693",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779693]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779693""
+}",192.168.52.138,33412,172.217.174.226,443
+" 783764",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783764]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783764""
+}",192.168.52.138,42210,69.173.158.64,443
+" 783767",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783767]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783767""
+}",192.168.52.138,42220,69.173.158.64,443
+" 783910",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783910]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783910""
+}",192.168.52.138,42234,69.173.158.64,443
+" 783896",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783896]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783896""
+}",192.168.52.138,45662,151.101.2.49,443
+" 780748",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780748]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780748""
+}",192.168.52.138,56464,18.66.57.126,443
+" 777261",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777261]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777261""
+}",192.168.52.138,60132,142.251.222.66,443
+" 778767",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778767]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778767""
+}",192.168.52.138,47936,18.239.253.171,443
+" 784787",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784787]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784787""
+}",192.168.52.138,50876,172.240.45.96,443
+" 782510",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782510]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782510""
+}",192.168.52.138,47524,35.190.43.134,443
+" 416330",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[416330]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""416330""
+}",127.0.0.1,56912,127.0.0.1,9200
+" 782644",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782644]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782644""
+}",192.168.52.138,46418,156.146.56.166,443
+" 778465",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778465]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778465""
+}",192.168.52.138,34156,104.18.32.137,443
+" 779139",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779139]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779139""
+}",192.168.52.138,54430,151.101.130.49,443
+" 791603",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791603]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791603""
+}",192.168.52.138,52976,13.214.211.90,443
+" 777369",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777369]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777369""
+}",192.168.52.138,42982,108.159.80.83,443
+" 780429",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780429]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780429""
+}",192.168.52.138,39042,151.101.104.157,443
+" 777311",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777311]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777311""
+}",192.168.52.138,34370,108.159.78.162,443
+" 266450",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[266450]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""266450""
+}",127.0.0.1,58376,127.0.0.1,9200
+" 266451",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[266451]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""266451""
+}",127.0.0.1,58384,127.0.0.1,9200
+" 266452",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[266452]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""266452""
+}",127.0.0.1,58386,127.0.0.1,9200
+" 353686",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[353686]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""353686""
+}",127.0.0.1,58412,127.0.0.1,9200
+" 783124",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783124]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783124""
+}",192.168.52.138,54272,44.231.186.9,443
+" 789175",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789175]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789175""
+}",192.168.52.138,51586,5.255.255.77,443
+" 784060",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784060]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784060""
+}",192.168.52.138,50672,23.222.30.133,443
+" 775906",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775906]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775906""
+}",192.168.52.138,36150,18.172.242.124,443
+" 791599",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791599]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791599""
+}",192.168.52.138,42278,216.58.203.2,443
+" 776136",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[776136]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""776136""
+}",192.168.52.138,45618,108.159.80.83,443
+" 781278",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781278]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781278""
+}",192.168.52.138,40324,35.212.104.44,443
+" 775881",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775881]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775881""
+}",192.168.52.138,51560,34.111.211.209,443
+" 780916",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780916]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780916""
+}",192.168.52.138,56086,199.232.194.27,443
+" 780767",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780767]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780767""
+}",192.168.52.138,48510,108.158.61.50,443
+" 790487",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[790487]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""790487""
+}",192.168.52.138,59434,135.148.170.12,443
+" 789519",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789519]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789519""
+}",192.168.52.138,55376,23.53.243.172,443
+" 775439",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775439]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775439""
+}",192.168.52.138,54560,172.66.0.227,443
+" 780747",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780747]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780747""
+}",192.168.52.138,42028,104.20.23.13,443
+" 789086",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789086]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789086""
+}",192.168.52.138,57236,34.4.35.11,443
+" 777363",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777363]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777363""
+}",192.168.52.138,42958,18.239.153.83,443
+" 781770",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781770]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781770""
+}",192.168.52.138,43918,104.18.34.190,443
+" 786651",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[786651]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""786651""
+}",192.168.52.138,35746,67.199.150.77,443
+" 775436",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775436]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775436""
+}",192.168.52.138,46888,142.250.207.194,443
+" 782289",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782289]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782289""
+}",192.168.52.138,38170,3.109.98.242,443
+" 791633",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791633]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791633""
+}",192.168.52.138,49898,69.173.158.64,443
+" 791647",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791647]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791647""
+}",192.168.52.138,49912,69.173.158.64,443
+" 777236",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777236]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777236""
+}",192.168.52.138,40370,104.18.1.206,443
+" 782816",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782816]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782816""
+}",192.168.52.138,36332,67.199.150.86,443
+" 778343",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778343]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778343""
+}",192.168.52.138,41582,13.227.249.70,443
+" 781752",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781752]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781752""
+}",192.168.52.138,47836,18.136.134.33,443
+" 785879",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785879]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785879""
+}",192.168.52.138,59568,216.19.192.2,443
+" 785880",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785880]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785880""
+}",192.168.52.138,59582,216.19.192.2,443
+" 785881",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785881]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785881""
+}",192.168.52.138,59594,216.19.192.2,443
+" 784167",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784167]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784167""
+}",192.168.52.138,49672,141.94.172.236,443
+" 785488",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785488]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785488""
+}",192.168.52.138,49686,141.94.172.236,443
+" 778839",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778839]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778839""
+}",192.168.52.138,52298,98.90.11.181,443
+" 780908",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780908]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780908""
+}",192.168.52.138,45944,3.6.206.78,443
+" 781286",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781286]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781286""
+}",192.168.52.138,37246,47.131.138.62,443
+" 782639",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782639]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782639""
+}",192.168.52.138,37272,47.131.138.62,443
+" 780436",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780436]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780436""
+}",192.168.52.138,39776,99.83.154.140,443
+" 792789",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792789]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792789""
+}",192.168.52.138,51854,192.132.33.68,443
+" 783559",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783559]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783559""
+}",192.168.52.138,41544,104.18.24.18,443
+" 780442",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780442]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780442""
+}",192.168.52.138,35120,18.66.41.24,443
+" 784459",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784459]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784459""
+}",192.168.52.138,39528,34.107.221.82,80
+" 783765",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783765]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783765""
+}",192.168.52.138,39530,34.107.221.82,80
+" 791422",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791422]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791422""
+}",192.168.52.138,35224,3.0.107.214,443
+" 783432",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783432]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783432""
+}",192.168.52.138,58046,35.213.50.78,443
+" 789662",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789662]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789662""
+}",192.168.52.138,40694,34.1.250.35,443
+" 790488",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[790488]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""790488""
+}",192.168.52.138,57072,35.190.0.66,443
+" 775418",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775418]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775418""
+}",192.168.52.138,55594,34.110.220.139,443
+" 782264",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782264]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782264""
+}",192.168.52.138,39578,67.199.150.77,443
+" 792017",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792017]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792017""
+}",192.168.52.138,51662,37.230.131.21,443
+" 783472",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783472]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783472""
+}",192.168.52.138,36082,185.184.8.90,443
+" 785424",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785424]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785424""
+}",192.168.52.138,39762,100.51.92.166,443
+" 780470",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780470]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780470""
+}",192.168.52.138,50836,35.71.131.137,443
+" 778364",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778364]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778364""
+}",192.168.52.138,33602,104.20.20.192,443
+" 778840",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778840]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778840""
+}",192.168.52.138,54374,150.171.28.10,443
+" 777399",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777399]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777399""
+}",192.168.52.138,54848,150.171.28.10,443
+" 785268",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785268]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785268""
+}",192.168.52.138,58368,13.227.249.39,443
+" 785315",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785315]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785315""
+}",192.168.52.138,58438,13.227.249.39,443
+" 792018",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792018]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792018""
+}",192.168.52.138,56334,69.173.158.64,443
+" 792786",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792786]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792786""
+}",192.168.52.138,56348,69.173.158.64,443
+" 792788",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792788]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792788""
+}",192.168.52.138,56368,69.173.158.64,443
+" 440035",Established," 123","{
+ ""Pid"": 56064,
+ ""Command"": ""wazuh-remoted\n"",
+ ""CommandLine"": ""/var/ossec/bin/wazuh-remoted\u0000"",
+ ""Filename"": ""socket:[440035]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""440035""
+}",192.168.52.138,1514,192.168.52.129,49685
+" 792010",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792010]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792010""
+}",192.168.52.138,42670,188.42.63.48,443
+" 775948",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775948]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775948""
+}",192.168.52.138,35240,13.225.0.87,443
+" 783037",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783037]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783037""
+}",192.168.52.138,53642,207.65.33.82,443
+" 782370",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782370]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782370""
+}",192.168.52.138,58352,69.173.158.64,443
+" 789438",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789438]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789438""
+}",192.168.52.138,35858,13.225.5.5,443
+" 777312",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777312]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777312""
+}",192.168.52.138,49542,35.186.253.211,443
+" 791775",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791775]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791775""
+}",192.168.52.138,48236,13.250.143.124,443
+" 777988",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777988]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777988""
+}",192.168.52.138,52842,151.101.2.217,443
+" 792212",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792212]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792212""
+}",192.168.52.138,36748,104.18.41.104,443
+" 775421",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775421]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775421""
+}",192.168.52.138,57576,142.250.206.98,443
+" 777316",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777316]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777316""
+}",192.168.52.138,43248,67.199.150.87,443
+" 781806",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781806]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781806""
+}",192.168.52.138,46356,209.38.50.75,443
+" 786002",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[786002]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""786002""
+}",192.168.52.138,35432,35.213.45.194,443
+" 781386",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781386]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781386""
+}",192.168.52.138,60568,44.216.44.43,443
+" 790079",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[790079]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""790079""
+}",192.168.52.138,53432,18.172.65.161,443
+" 769110",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[769110]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""769110""
+}",192.168.52.138,44516,47.130.6.11,443
+" 783860",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783860]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783860""
+}",192.168.52.138,42338,54.89.10.200,443
+" 781189",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781189]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781189""
+}",192.168.52.138,53688,98.82.157.137,443
+" 775438",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775438]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775438""
+}",192.168.52.138,60926,162.159.140.229,443
+" 778845",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778845]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778845""
+}",192.168.52.138,55724,151.101.104.157,443
+" 785732",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785732]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785732""
+}",192.168.52.138,47332,141.94.175.218,443
+" 792050",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792050]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792050""
+}",192.168.52.138,51574,13.192.116.82,443
+" 779142",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779142]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779142""
+}",192.168.52.138,44736,185.184.8.90,443
+" 778338",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778338]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778338""
+}",192.168.52.138,56628,13.227.249.45,443
+" 780427",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780427]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780427""
+}",192.168.52.138,44272,151.101.193.91,443
+" 792063",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792063]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792063""
+}",192.168.52.138,33562,104.20.35.150,443
+" 784785",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784785]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784785""
+}",192.168.52.138,32864,3.214.75.109,443
+" 777326",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777326]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777326""
+}",192.168.52.138,41190,151.101.2.132,443
+" 791759",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791759]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791759""
+}",192.168.52.138,51828,35.214.164.178,443
+" 779678",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779678]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779678""
+}",192.168.52.138,53478,108.158.57.2,443
+" 778330",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778330]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778330""
+}",192.168.52.138,32876,104.21.37.193,443
+" 790032",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[790032]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""790032""
+}",192.168.52.138,51740,35.201.67.47,443
+" 778012",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778012]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778012""
+}",192.168.52.138,37760,151.101.2.27,443
+" 779084",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779084]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779084""
+}",192.168.52.138,46226,18.67.195.25,443
+" 783503",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783503]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783503""
+}",192.168.52.138,44938,35.171.231.8,443
+" 781803",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781803]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781803""
+}",192.168.52.138,49608,67.199.150.87,443
+" 783965",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783965]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783965""
+}",192.168.52.138,54754,13.250.160.195,443
+" 778847",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778847]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778847""
+}",192.168.52.138,34646,172.66.171.133,443
+" 791572",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791572]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791572""
+}",192.168.52.138,44852,172.217.174.68,443
+" 783863",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783863]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783863""
+}",192.168.52.138,36346,3.221.227.234,443
+" 783102",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783102]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783102""
+}",192.168.52.138,45126,198.8.71.131,443
+" 775869",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775869]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775869""
+}",192.168.52.138,59284,172.64.152.243,443
+" 783851",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783851]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783851""
+}",192.168.52.138,53326,203.195.121.141,443
+" 784144",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784144]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784144""
+}",192.168.52.138,49152,52.26.112.182,443
+" 775408",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775408]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775408""
+}",192.168.52.138,49864,151.101.193.91,443
+" 775885",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775885]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775885""
+}",192.168.52.138,34884,34.120.237.76,443
+" 776101",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[776101]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""776101""
+}",192.168.52.138,47382,142.250.207.226,443
+" 792816",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792816]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792816""
+}",192.168.52.138,54686,13.228.44.184,443
+" 780423",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780423]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780423""
+}",192.168.52.138,59710,104.18.32.137,443
+" 783902",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783902]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783902""
+}",192.168.52.138,59252,52.1.181.238,443
+" 783492",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783492]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783492""
+}",192.168.52.138,50492,216.239.36.181,443
+" 781050",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781050]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781050""
+}",192.168.52.138,42998,52.221.244.46,443
+" 777313",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777313]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777313""
+}",192.168.52.138,46850,34.36.209.34,443
+" 789658",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789658]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789658""
+}",192.168.52.138,46402,18.139.40.15,443
+" 785391",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785391]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785391""
+}",192.168.52.138,48224,35.207.140.152,443
+" 785406",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785406]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785406""
+}",192.168.52.138,48264,35.207.140.152,443
+" 791958",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791958]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791958""
+}",192.168.52.138,54320,129.159.122.198,443
+" 792153",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792153]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792153""
+}",192.168.52.138,49648,34.111.113.62,443
+" 777345",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777345]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777345""
+}",192.168.52.138,58656,13.227.249.73,443
+" 760518",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[760518]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""760518""
+}",127.0.0.1,8001,127.0.0.1,49640
+" 779047",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779047]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779047""
+}",192.168.52.138,52894,13.225.5.81,443
+" 790477",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[790477]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""790477""
+}",192.168.52.138,34670,50.112.227.78,443
+" 781812",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781812]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781812""
+}",192.168.52.138,60198,35.207.138.134,443
+" 780462",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780462]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780462""
+}",192.168.52.138,43814,44.207.45.195,443
+" 783898",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783898]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783898""
+}",192.168.52.138,39350,103.229.10.245,443
+" 777314",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777314]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777314""
+}",192.168.52.138,36772,104.18.26.193,443
+" 791735",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791735]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791735""
+}",192.168.52.138,41714,180.210.70.11,443
+" 789665",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789665]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789665""
+}",192.168.52.138,51842,139.162.60.22,443
+" 783833",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783833]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783833""
+}",192.168.52.138,58584,118.214.133.221,443
+" 775870",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775870]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775870""
+}",192.168.52.138,33320,108.159.61.48,443
+" 781771",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781771]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781771""
+}",192.168.52.138,59098,3.0.107.214,443
+" 782817",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782817]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782817""
+}",192.168.52.138,59030,18.239.255.18,443
+" 781381",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781381]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781381""
+}",192.168.52.138,39518,104.26.11.164,443
+" 784782",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784782]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784782""
+}",192.168.52.138,60964,3.225.102.0,443
+" 785789",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785789]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785789""
+}",192.168.52.138,41656,3.208.213.53,443
+" 782801",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782801]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782801""
+}",192.168.52.138,57934,74.121.143.240,443
+" 792246",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792246]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792246""
+}",192.168.52.138,41498,38.91.45.7,443
+" 779975",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779975]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779975""
+}",192.168.52.138,48952,172.66.148.159,443
+" 779052",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779052]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779052""
+}",192.168.52.138,49428,172.66.148.159,443
+" 789664",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789664]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789664""
+}",192.168.52.138,57322,47.130.6.14,443
+" 780738",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780738]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780738""
+}",192.168.52.138,41256,23.57.210.25,443
+" 785719",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785719]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785719""
+}",192.168.52.138,41894,129.212.214.111,443
+" 778953",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778953]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778953""
+}",192.168.52.138,56134,104.20.47.80,443
+" 779898",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779898]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779898""
+}",192.168.52.138,60372,15.156.133.52,443
+" 782605",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782605]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782605""
+}",192.168.52.138,55570,185.84.60.20,443
+" 777916",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777916]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777916""
+}",192.168.52.138,49042,104.21.37.193,443
+" 775792",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775792]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775792""
+}",192.168.52.138,49354,142.250.71.99,443
+" 785410",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785410]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785410""
+}",192.168.52.138,57290,104.18.27.216,443
+" 760692",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[760692]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""760692""
+}",127.0.0.1,8000,127.0.0.1,49532
+" 783137",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783137]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783137""
+}",192.168.52.138,42372,67.199.150.85,443
+" 792064",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792064]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792064""
+}",192.168.52.138,60408,185.84.60.23,443
+" 785136",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785136]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785136""
+}",192.168.52.138,34254,13.227.249.125,443
+" 762511",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[762511]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""762511""
+}",127.0.0.1,8000,127.0.0.1,46750
+" 790164",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[790164]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""790164""
+}",192.168.52.138,50386,142.250.71.99,443
+" 781924",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781924]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781924""
+}",192.168.52.138,48910,35.190.59.101,443
+" 779082",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779082]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779082""
+}",192.168.52.138,35408,18.239.255.60,443
+" 781702",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[781702]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""781702""
+}",192.168.52.138,48184,44.247.134.55,443
+" 784209",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784209]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784209""
+}",192.168.52.138,43068,104.18.12.250,443
+" 792076",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792076]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792076""
+}",192.168.52.138,46196,35.244.154.8,443
+" 780906",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780906]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780906""
+}",192.168.52.138,41516,18.239.153.74,443
+" 791407",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791407]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791407""
+}",192.168.52.138,57148,98.82.158.241,443
+" 780049",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780049]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780049""
+}",192.168.52.138,36688,142.250.67.166,443
+" 780746",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780746]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780746""
+}",192.168.52.138,39326,104.20.22.97,443
+" 789669",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789669]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789669""
+}",192.168.52.138,47948,104.17.201.65,443
+" 785868",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785868]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785868""
+}",192.168.52.138,58612,18.172.78.125,443
+" 779942",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779942]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779942""
+}",192.168.52.138,46812,23.222.31.194,443
+" 780467",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780467]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780467""
+}",192.168.52.138,41480,108.159.61.48,443
+" 762138",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[762138]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""762138""
+}",127.0.0.1,8000,127.0.0.1,49524
+" 792245",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792245]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792245""
+}",192.168.52.138,46200,18.239.111.82,443
+" 782586",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782586]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782586""
+}",192.168.52.138,58154,104.18.37.193,443
+" 778952",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778952]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778952""
+}",192.168.52.138,56640,142.250.67.194,443
+" 783417",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783417]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783417""
+}",192.168.52.138,51154,8.214.60.171,443
+" 777985",Established," 0","{
+ ""Pid"": 67858,
+ ""Command"": ""velociraptor\n"",
+ ""CommandLine"": ""./velociraptor\u0000--config\u0000/tmp/gui_datastore/server.config.yaml\u0000gui\u0000"",
+ ""Filename"": ""socket:[777985]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777985""
+}",127.0.0.1,8889,127.0.0.1,38674
+" 780425",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780425]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780425""
+}",192.168.52.138,44574,23.212.0.21,443
+" 782660",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782660]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782660""
+}",192.168.52.138,41394,207.65.33.83,443
+" 791844",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791844]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791844""
+}",192.168.52.138,42368,54.151.221.113,443
+" 791931",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791931]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791931""
+}",192.168.52.138,53136,104.18.25.18,443
+" 763168",Established," 0","{
+ ""Pid"": 59560,
+ ""Command"": ""filebeat\n"",
+ ""CommandLine"": ""/usr/share/filebeat/bin/filebeat\u0000--environment\u0000systemd\u0000-c\u0000/etc/filebeat/filebeat.yml\u0000--path.home\u0000/usr/share/filebeat\u0000--path.config\u0000/etc/filebeat\u0000--path.data\u0000/var/lib/filebeat\u0000--path.logs\u0000/var/log/filebeat\u0000"",
+ ""Filename"": ""socket:[763168]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""763168""
+}",127.0.0.1,35034,127.0.0.1,9200
+" 777357",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777357]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777357""
+}",192.168.52.138,50384,13.225.5.29,443
+" 780420",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780420]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780420""
+}",192.168.52.138,42318,18.239.111.47,443
+" 783031",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783031]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783031""
+}",192.168.52.138,41864,35.213.183.23,443
+" 791926",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791926]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791926""
+}",192.168.52.138,58666,52.223.2.229,443
+" 410362",Established," 126","{
+ ""Pid"": 59776,
+ ""Command"": ""node\n"",
+ ""CommandLine"": ""/usr/share/wazuh-dashboard/node/bin/node\u0000--no-warnings\u0000--max-http-header-size=65536\u0000--unhandled-rejections=warn\u0000/usr/share/wazuh-dashboard/src/cli/dist\u0000-c\u0000/etc/wazuh-dashboard/opensearch_dashboards.yml\u0000"",
+ ""Filename"": ""socket:[410362]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""410362""
+}",127.0.0.1,36824,127.0.0.1,9200
+" 775797",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775797]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775797""
+}",192.168.52.138,42068,104.18.19.62,443
+" 780424",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780424]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780424""
+}",192.168.52.138,53526,3.163.248.4,443
+" 791771",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[791771]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""791771""
+}",192.168.52.138,53294,103.229.10.245,443
+" 778773",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[778773]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""778773""
+}",192.168.52.138,40238,151.101.130.132,443
+" 783043",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783043]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783043""
+}",192.168.52.138,44400,148.251.40.6,443
+" 775440",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[775440]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""775440""
+}",192.168.52.138,59002,52.1.121.156,443
+" 789644",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[789644]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""789644""
+}",192.168.52.138,47370,174.137.133.49,443
+" 777795",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777795]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777795""
+}",192.168.52.138,45464,104.18.87.42,443
+" 779897",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779897]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779897""
+}",192.168.52.138,52594,104.26.11.164,443
+" 784540",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[784540]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""784540""
+}",192.168.52.138,41894,104.16.79.73,443
+" 783032",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783032]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783032""
+}",192.168.52.138,50514,54.179.144.225,443
+" 779915",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779915]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779915""
+}",192.168.52.138,60898,18.239.115.163,443
+" 785439",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[785439]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""785439""
+}",192.168.52.138,44870,108.62.99.206,443
+" 782215",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782215]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782215""
+}",192.168.52.138,33448,35.208.249.213,443
+" 782602",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782602]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782602""
+}",192.168.52.138,40048,35.78.53.200,443
+" 779938",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[779938]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""779938""
+}",192.168.52.138,49234,108.159.80.89,443
+" 782262",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[782262]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""782262""
+}",192.168.52.138,45974,35.213.7.90,443
+" 783035",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783035]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783035""
+}",192.168.52.138,59672,23.222.31.141,443
+" 777797",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[777797]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""777797""
+}",192.168.52.138,34742,151.101.66.27,443
+" 792281",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[792281]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""792281""
+}",192.168.52.138,39992,65.0.211.255,443
+" 780437",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[780437]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""780437""
+}",192.168.52.138,59214,57.144.176.1,443
+" 783030",Established," 1000","{
+ ""Pid"": 66759,
+ ""Command"": ""firefox\n"",
+ ""CommandLine"": ""/snap/firefox/7836/usr/lib/firefox/firefox\u0000"",
+ ""Filename"": ""socket:[783030]"",
+ ""Type"": ""socket"",
+ ""Inode"": ""783030""
+}",192.168.52.138,49966,67.199.150.82,443
